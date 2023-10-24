@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghostwyrd
-- 👀 I’m interested in ... Cybersecurity, Programming, and expanding my capacity to envision and create web-based soluions on the path to AWS Solutions Architect
+- 👀 I’m interested in ... Cybersecurity, Programming, and expanding my capacity to envision and create web-based solutions on the path to AWS Solutions Architect
 - 🌱 I’m currently learning ... AWS Solutions Architect fundamentals
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... nlorsbach@gmail.com
